@@ -64,6 +64,8 @@ id listViewCategories
 id list_lib
 id main
 id nameQuestion
+id prgLogin
+id prg_signup
 id profile_image
 id progress_circular
 id rvSubject
@@ -77,6 +79,7 @@ layout activity_add_library
 layout activity_add_quiz
 layout activity_forgot_password
 layout activity_home_login
+layout activity_home_user
 layout activity_library
 layout activity_login
 layout activity_main
@@ -84,6 +87,7 @@ layout activity_play_quizz
 layout activity_profile
 layout activity_question
 layout activity_sign_up
+layout activity_user_profile
 layout layout_item_library
 layout quiz_item_recycle_row
 mipmap ic_launcher

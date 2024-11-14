@@ -153,6 +153,12 @@
            android:layout_width="match_parent"
            android:layout_height="match_parent">
 
+           <ProgressBar
+               android:visibility="gone"
+               android:id="@+id/prgLogin"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"/>
+
            <Button
                android:id="@+id/btn_login"
                android:layout_width="200dp"

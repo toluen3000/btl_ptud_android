@@ -22,9 +22,9 @@ class HomeLoginActivity : AppCompatActivity() {
         SignUpScreen()
         // Write a message to the database
         val database = Firebase.database
-        val myRef = database.getReference("message")
-
-        myRef.setValue("Hello, Tôi là Đạt!")
+//        val myRef = database.getReference("message")
+//
+//        myRef.setValue("Hello, Tôi là Đạt!")
     }
 
     private fun SignUpScreen() {

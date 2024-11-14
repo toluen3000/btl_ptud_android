@@ -20,6 +20,8 @@ class ProfileActivity : AppCompatActivity() {
         SystemSetting()
         LogOut()
 
+        //profile admin
+
         //menu
         MainActivityHome()
         LibraryHome()
